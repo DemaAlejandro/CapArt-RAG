@@ -8,6 +8,6 @@ Our implementation uses:
  * **ChromaDB** as a local vector store
  * **Local LLM via Ollama** ensuring complete data privacy and offline usage
 
-![Cap-Art_RAG_Structure](Cap-Art_RAG_Structure.png)
+![CapArt-RAG_Structure](CapArt-RAG_Structure.png)
 
 This repository provides the end-to-end codebase and documentation to ingest PDF regulations, preprocess and index them, and execute accurate, traceable queries.
