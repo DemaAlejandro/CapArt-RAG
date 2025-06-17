@@ -7,4 +7,7 @@ Our implementation uses:
  * **LangChain** pipelines that integrate HyDE's hypothetical expansion and retrieval chains
  * **ChromaDB** as a local vector store
  * **Local LLM via Ollama** ensuring complete data privacy and offline usage
+
+![Decision Tree Example](Cap-Art_RAG.png)
+
 This repository provides the end-to-end codebase and documentation to ingest PDF regulations, preprocess and index them, and execute accurate, traceable queries.
